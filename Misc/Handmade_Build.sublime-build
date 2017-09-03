@@ -1,0 +1,7 @@
+{
+	"cmd": "build.bat",
+	"file_regex": "",
+	"working_dir": "$project_path/code",
+	"shell": true,
+	"syntax": "",
+}
